@@ -8,3 +8,4 @@ requests==2.25.0
 splinter==0.14.0
 gunicorn==19.9.0
 SQLAlchemy==1.2.18
+psycopg2==2.8.6
