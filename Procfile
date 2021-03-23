@@ -1,0 +1,1 @@
+web gunicorn faangapp.app:app
