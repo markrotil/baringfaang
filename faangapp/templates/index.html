@@ -79,9 +79,9 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>More Options</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="/map">Office Map</a></li>
+              <li><a href="/map" target="_blank">Office Map</a></li>
               <li class="dropdown"><a href="#"><span>Job Oppertunities</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="https://www.amazon.jobs/en/" target="_blank">Amazon</a></li>
@@ -349,7 +349,7 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-app">Offices</li>
               <li data-filter=".filter-card">Card</li>
               <li data-filter=".filter-web">Web</li>
             </ul>
@@ -359,13 +359,16 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="static/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+            <img src="static/assets/img/portfolio/office parsing.PNG" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="static/assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Selenium/Splinter</h4>
+              <p>Offices</p>
+              <a href="static/assets/img/portfolio/office parsing.PNG" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link"
+                title="I had a lot of difficulties with a website that constantly asked me to sign in after the second page. This code block recursively pull the office locations while constanly signing me in with each page "><i
+                  class="bx bx-plus"></i></a>
+              <a href="https://github.com/markrotil/baringfaang/blob/main/faangapp/ETL/Transform/office_locations/office_locations.ipynb"
+                target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -381,13 +384,16 @@
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="static/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/coordinates.PNG" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Getting Lat/Long</h4>
+              <p>Offices</p>
+              <a href="assets/img/portfolio/coordinates.PNG" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link"
+                title="This was the most time consuming part of the project as there was no way of getting the coordinates via looping. So all the lat/long found in my code is from looking each location up. Finding the coordiantes for the hidden offices was also difficult."><i
+                  class="bx bx-plus"></i></a>
+              <a href="https://github.com/markrotil/baringfaang/blob/main/faangapp/ETL/Transform/office_locations/Office_Locations_final_df.ipynb"
+                target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -416,10 +422,12 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="static/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
+              <h4>Mapping</h4>
+              <p>Offices</p>
               <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+                class="portfolio-lightbox preview-link"
+                title="Gettign the map to look exacly what I want is a challenge. This part is currently a work in progress"><i
+                  class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -704,10 +712,11 @@
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Citation Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a
+                  href="https://facebook.github.io/prophet/docs/quick_start.html">Facebook Prophet</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://www.unisvg.com/">iconify Icons</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
@@ -715,25 +724,23 @@
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4></h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.macrotrends.net/" target="_blank">Faang
+                  Revenue and Employee
+                  Numbers</a></li>
+              <li><i class="bx bx-chevron-right" target="_blank"></i> <a
+                  href="https://www.statista.com/topics/4213/google-apple-facebook-amazon-and-microsoft-gafam/"
+                  target="_blank">Faang
+                  Finances</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://craft.co/" target="_blank">Office Locations</a>
+              </li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ca.finance.yahoo.com/" target="_blank">Stock
+                  Prices</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bootstrapmade.com/" target="_blank">HTML
+                  Template</a></li>
             </ul>
           </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-
-          </div>
-
         </div>
       </div>
     </div>
