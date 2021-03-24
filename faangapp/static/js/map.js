@@ -7,12 +7,12 @@ var LeafIcon = L.Icon.extend({
 })
 
 
-var Amzn = new LeafIcon({ iconUrl: 'amazon pin.png' }),
-    Appl = new LeafIcon({ iconUrl: 'apple pin.png' }),
-    Googl = new LeafIcon({ iconUrl: 'google pin.png' }),
-    FacB = new LeafIcon({ iconUrl: 'facebook pin.png' }),
-    Nflx = new LeafIcon({ iconUrl: 'netflix pin.png' }),
-    Micrsft = new LeafIcon({ iconUrl: 'microsoft pin.png' });
+var Amzn = new LeafIcon({ iconUrl: 'faangapp/templates/amazon pin.png' }),
+    Appl = new LeafIcon({ iconUrl: 'faangapp/templates/apple pin.png' }),
+    Googl = new LeafIcon({ iconUrl: 'faangapp/templates/google pin.png' }),
+    FacB = new LeafIcon({ iconUrl: 'faangapp/templates/facebook pin.png' }),
+    Nflx = new LeafIcon({ iconUrl: 'faangapp/templates/netflix pin.png' }),
+    Micrsft = new LeafIcon({ iconUrl: 'faangapp/templates/microsoft pin.png' });
 
 
 // Create the tile layer that will be the background of our map
