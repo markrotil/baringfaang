@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const cardArray = [
         {
             name: 'kyla',
-            img: 'faangapp/static/assets/img/matching_game/kyla.PNG'
+            img: 'static/assets/img/matching_game/kyla.PNG'
         },
         {
             name: 'laurel',
