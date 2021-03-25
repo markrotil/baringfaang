@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+BaringFang
+A Project that compares statsical data between 6 of the bigget Tech Companies. Seeing as it is unfair to compare these companies that sepcialize in different fields strictly by "the biggest number" we will analyze growth under the follwoing categories: Offices to employees ratio, revenue growth rates, the flunctuation of stock prices throughout a 2 year span(Prior to covid, during covid), and the current and the number of job oppertunities available.
