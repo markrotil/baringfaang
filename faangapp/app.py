@@ -22,7 +22,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("prophet.html")
 
 
 @app.route("/map")
@@ -30,9 +30,14 @@ def map():
     return render_template("map.html")
 
 
-@app.route("/")
+@app.route("/fbproph")
 def fbprophet():
-    return render_template("map.html")
+    return render_template("prophet.html")
+
+
+@app.route("/dashboards")
+def dashBI():
+    return render_template("dashboard.html")
 
 
 @app.route("/api/stocks")
