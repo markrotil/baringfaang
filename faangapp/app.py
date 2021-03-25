@@ -22,7 +22,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return render_template("prophet.html")
+    return render_template("game.html")
 
 
 @app.route("/map")
