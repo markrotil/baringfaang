@@ -1,0 +1,626 @@
+Office,Country,Company,Latitude,Longitude
+Cupertino,United States,Apple,37.33556016,-122.0146156
+Austin,United States,Apple,30.43473564,-97.73434005
+Cupertino,United States,Apple,37.33204108,-122.0295966
+Sydney,Australia,Apple,-33.86709686,151.2087845
+Toronto,Canada,Apple,43.64314019,-79.38307697
+Las Condes,Chile,Apple,-33.40516438,-70.57428826
+Shanghai,China,Apple,31.34915288,121.5902057
+Paris,France,Apple,48.86413538,2.293747342
+Hong Kong,Hong Kong,Apple,22.27840911,114.18201699999999
+Bengaluru,India,Apple,12.97190314,77.59604777
+Jakarta,Indonesia,Apple,-6.215285617,106.82145430000001
+Cork,Ireland,Apple,51.90259413,-8.503932373
+Tokyo,Japan,Apple,35.65889289,139.7319346
+South Bay,Macao,Apple,22.19309619,113.54265990000002
+Kuala Lumpur,Malaysia,Apple,3.136566179,101.6865361
+Ciudad de México,Mexico,Apple,19.37620857,-99.25787587
+Auckland,New Zealand,Apple,-36.84627985,174.76981640000002
+Moskva,Russia,Apple,55.75424144,37.608497899999996
+Singapore,Singapore,Apple,1.3895292590000001,103.8450053
+Seoul,Korea (Republic of),Apple,37.51190625,127.0593287
+Taipei City,Taiwan,Apple,25.0340014,121.56452979999999
+Khwaeng Pathum Wan,Thailand,Apple,13.74623456,100.5384632
+?stanbul,Turkey,Apple,41.06641051,29.01721147
+Dubai,United Arab Emirates,Apple,25.20090767,55.27399914
+Ho Chi Minh,Viet Nam,Apple,10.7819158,106.70077909999999
+Seattle,United States,Amazon,47.62465946,-122.33650130000001
+Arlington,United States,Amazon,38.85831998,-77.05175284
+Atlanta,United States,Amazon,33.84827036,-84.37204337
+Austin,United States,Amazon,30.406992300000002,-97.71901265
+Baltimore,United States,Amazon,39.26828956,-76.54976232
+Bellevue,United States,Amazon,47.61744672,-122.19998490000002
+Boardman,United States,Amazon,40.01820468,-105.27557990000001
+Boulder,United States,Amazon,40.56215307,-75.61741218
+Breinigsville,United States,Amazon,40.66213713,-74.00410291
+Brooklyn,United States,Amazon,40.66252777,-74.00547621
+Caledonia,United States,Amazon,42.84094803,-85.55316226
+Campbellsville,United States,Amazon,37.33885385,-85.34960774
+Campbellsville,United States,Amazon,37.33923464,-85.34823475
+Carlisle,United States,Amazon,40.19492224,77.22480858
+Carteret,United States,Amazon,40.56485931,-74.22183977
+Charleston,United States,Amazon,35.28283823,-84.8121439
+Charlotte,United States,Amazon,35.24024335,-80.83093457
+Chattanooga,United States,Amazon,35.06909995,-85.14167309
+Chester,United States,Amazon,37.35230735,-77.32699373
+Chicago,United States,Amazon,42.06476338,-87.63901404
+Columbus,United States,Amazon,40.00563695,-83.00887647
+Coppell,United States,Amazon,38.26611569,-121.9415076
+Cupertino,United States,Amazon,33.14649309,-96.78818602
+Dallas,United States,Amazon,32.66082933,-96.7370197
+Detroit,United States,Amazon,42.38175077,-83.04003559
+East Palo Alto,United States,Amazon,37.98969914,-122.20543290000002
+Fall River,United States,Amazon,41.76215845,-71.09547606
+Florence Township,United States,Amazon,40.19648247,-74.78117368
+Fort Worth,United States,Amazon,33.42243688,-97.29897198
+Hazleton,United States,Amazon,40.99654611,-76.01128126
+Hebron,United States,Amazon,39.20817804,-84.75494828
+Herndon,United States,Amazon,38.95597558,-77.39640759999999
+Huntington,United States,Amazon,38.53969631,-82.45423142
+Indianapolis,United States,Amazon,39.86405614,-86.30807508
+Irvine,United States,Amazon,34.45568488,-117.68837279999998
+Irving,United States,Amazon,33.41830007,-97.09339165
+Kenosha,United States,Amazon,42.74451574,-87.95715496
+Lakeland,United States,Amazon,28.02048286,-82.05394006
+Lewisberry,United States,Amazon,40.23865907,-76.85096529
+Lexington,United States,Amazon,38.07529168,-84.5294885
+Logan Township,United States,Amazon,39.89178362,-75.3580237
+Louisville,United States,Amazon,38.13975592,-85.89319453
+Minneapolis,United States,Amazon,45.10861843,-93.27277779
+Minneapolis,United States,Amazon,44.98342181,-93.21699514
+Nashville,United States,Amazon,36.13063845,-86.69244179
+Newark,United States,Amazon,40.73495658,-74.14091369
+New Castle,United States,Amazon,39.66399334,-75.59013658
+New York,United States,Amazon,40.75284305,-73.99967276
+North Charleston,United States,Amazon,33.14703185,-80.05222303
+North Las Vegas,United States,Amazon,36.68536633,-115.1186387
+Petersburg,United States,Amazon,37.38378216,-77.46834454
+Philadelphia,United States,Amazon,40.09335896,-75.08866359
+Phoenix,United States,Amazon,33.43271931,-112.1680381
+Pittsburgh,United States,Amazon,40.50233816,-80.10400694
+Portland,United States,Amazon,45.92397295,-122.8535658
+Redondo Beach,United States,Amazon,33.89429345,-118.36965049999999
+Reno,United States,Amazon,40.19564366,-74.56495919
+Robbinsville Township,United States,Amazon,40.26509192,-74.5686974
+Ruskin,United States,Amazon,27.72769091,-82.39094859999999
+Salem,United States,Amazon,44.90269977,-122.96144129999999
+San Antonio,United States,Amazon,29.52627385,-98.40063043
+San Diego,United States,Amazon,32.75017448,-117.20121200000001
+San Francisco,United States,Amazon,37.7914351,-122.39293899999998
+San Francisco,United States,Amazon,37.79486637,-122.4018711
+San Jose,United States,Amazon,37.7816578,-122.04490890000001
+San Luis Obispo,United States,Amazon,35.28197314,-120.661125
+Santa Barbara,United States,Amazon,34.42141033,-119.7025994
+Santa Cruz,United States,Amazon,36.97520119,-122.02593040000001
+Santa Monica,United States,Amazon,34.02960486,-118.47083390000002
+Seattle,United States,Amazon,47.61548922,-122.3383145
+Seattle,United States,Amazon,48.11424745,-122.45826299999999
+Seattle,United States,Amazon,47.61653482,-122.3396615
+Sterling,United States,Amazon,38.98629109,-77.43982986
+Sunnyvale,United States,Amazon,37.40873064,-122.0365173
+Washington,United States,Amazon,39.01958198,-77.01271386
+Westborough,United States,Amazon,42.29202841,-71.57258767
+Woodbridge Township,United States,Amazon,40.58383258,-74.25721319
+Madison,United States,Amazon,43.07791663,-89.40009018
+Brisbane City,Australia,Amazon,-27.466910100000003,153.02790349999998
+Melbourne,Australia,Amazon,-37.81509917,144.9728666
+Sydney,Australia,Amazon,-33.87264028,151.2075356
+Brussels,Belgium,Amazon,50.84519364,4.368732112
+São Paulo,Brazil,Amazon,-23.59118459,-46.68974514
+Calgary,Canada,Amazon,51.05967157,-113.99021780000001
+Montreal,Canada,Amazon,45.46483872,-73.70541993
+Toronto,Canada,Amazon,43.6433229,-79.38309336
+Toronto,Canada,Amazon,43.64963542,-79.3795298
+Vancouver,Canada,Amazon,49.28121675,-123.11698059999999
+Beijing,China,Amazon,39.91483838,116.4916328
+Changchun,China,Amazon,43.88019204,125.33679270000002
+Chengdu,China,Amazon,30.55099259,104.0704861
+Guangzhou,China,Amazon,23.19457511,113.2626297
+Jinan,China,Amazon,36.710409399999996,117.0265662
+Nanning,China,Amazon,22.399972299999998,107.3574987
+Shanghai,China,Amazon,33.33974692,120.8877673
+Shenyang,China,Amazon,41.81569991,123.4044777
+Shenzhen,China,Amazon,22.53658751,114.0593629
+Suzhou,China,Amazon,31.37848974,120.9596869
+Tianjin,China,Amazon,39.118177,117.1973236
+Wuhan,China,Amazon,30.48857389,114.1594159
+Xiamen,China,Amazon,24.53402868,118.0210353
+Zhongwei,China,Amazon,37.51697219,105.1738676
+"Bogotá,",Colombia,Amazon,4.683014179,-74.12077611
+ San José,Costa Rica,Amazon,9.947820281,-84.07187512
+Praha 6,Czech Republic,Amazon,50.09976778,14.39079227
+Ð¡airo,Egypt,Amazon,29.97808707,31.23400866
+Helsinki,Finland,Amazon,60.17315051,24.945373
+Boves,France,Amazon,49.85616721,2.39993032
+Brétigny-sur-Orge,France,Amazon,48.60334216,2.3205011559999997
+Lauwin-Planque,France,Amazon,50.39451381,3.020418041
+Montélimar,France,Amazon,44.52970899,4.739880413
+Paris,France,Amazon,48.90486413,2.312106087
+Saran,France,Amazon,47.96249248,1.8458832809999999
+Senlis,France,Amazon,49.22183678,2.590713901
+Sevrey,France,Amazon,46.73716952,4.850753569
+Aachen,Germany,Amazon,50.77177456,6.088941331
+Bad Hersfeld,Germany,Amazon,50.84577437,9.677834971000001
+Berlin,Germany,Amazon,52.51787898,13.39588641
+Bremen,Germany,Amazon,53.10494715,8.693020986
+Brieselang,Germany,Amazon,52.60607773,12.9767323
+Cloppenburg,Germany,Amazon,52.85111375,8.090840052
+Dortmund,Germany,Amazon,51.52928229,7.502894723
+Dresden,Germany,Amazon,51.06823831,13.77959137
+Düsseldorf,Germany,Amazon,51.22527308,6.736810391000001
+Elmshorn,Germany,Amazon,53.75246698,9.662904908
+Erfurt,Germany,Amazon,51.04424953,11.03663064
+Frankenthal,Germany,Amazon,49.48663165,8.316173354
+Frankfurt,Germany,Amazon,50.10481012,8.630422912
+Graben,Germany,Amazon,48.19958355,10.8503647
+Hamburg,Germany,Amazon,53.52936666,10.02031854
+Koblenz,Germany,Amazon,50.34759165,7.487645071
+Leipzig,Germany,Amazon,51.36520835,12.45287131
+Mönchengladbach,Germany,Amazon,51.14909633,6.348496712
+München,Germany,Amazon,48.1846419,11.59553321
+Pforzheim,Germany,Amazon,48.92469802,8.725924954
+Regensburg,Germany,Amazon,49.03199574,12.12791433
+Rheda-Wiedenbrück,Germany,Amazon,51.83157609,8.208722871
+Rheinberg,Germany,Amazon,51.5371316,6.588064585
+Sülzetal,Germany,Amazon,52.05718129,11.57219718
+Tübingen,Germany,Amazon,48.53593419,9.058343969
+Werne,Germany,Amazon,51.65412927,7.594887456
+Winsen (Luhe),Germany,Amazon,53.36233886,10.21211441
+Wunstorf,Germany,Amazon,52.41500377,9.463141527000001
+Wan Chai,Hong Kong,Amazon,22.27952265,114.1758706
+Bengaluru,India,Amazon,13.00985785,77.55438957
+Chennai,India,Amazon,13.05330663,80.19312068
+Hyderabad,India,Amazon,17.42064221,78.33946677
+Mumbai,India,Amazon,19.11930085,72.89031008
+New Delhi,India,Amazon,28.518865100000003,77.29299073
+Pune,India,Amazon,18.50666042,73.82818431
+Cork Airport Business Park,Ireland,Amazon,51.85210132,-8.483171759
+Dublin,Ireland,Amazon,53.33232654,-6.245781059
+Haifa,Israel,Amazon,32.79395864,34.96128436
+Hod Hasharon,Israel,Amazon,32.16721886,34.81154979
+Tel Aviv-Yafo,Israel,Amazon,32.07201178,34.78904496
+Yokne'am Illit,Israel,Amazon,32.67851669,35.09739946
+Cagliari,Italy,Amazon,39.22161621,9.121347354
+Castelguglielmo,Italy,Amazon,45.03216916,11.56832868
+Chiasso,Italy,Amazon,45.07820511,9.454290637
+Colleferro,Italy,Amazon,41.76637722,13.00926309
+Roma,Italy,Amazon,41.8371114,12.45270176
+Torrazza Piemonte,Italy,Amazon,45.2344091,7.980584699
+Vercelli,Italy,Amazon,45.29285241,8.397529356
+Fukuoka,Japan,Amazon,33.5976704,130.4073369
+Ichikawa ,Japan,Amazon,35.66873594,139.9263104
+Kawagoe,Japan,Amazon,35.88093287,139.4465755
+Kitahiroshima,Japan,Amazon,43.12358745,141.466079
+Meguro City,Japan,Amazon,35.63086725,139.71424230000002
+Odawara,Japan,Amazon,35.27034686,139.163569
+Osaka,Japan,Amazon,34.60422577,135.45157859999998
+Sendai,Japan,Amazon,38.23034754,140.8842601
+Tajimi,Japan,Amazon,35.36523206,137.10970700000001
+Tosu,Japan,Amazon,33.41072759,130.5223898
+Luxembourg City,Luxembourg,Amazon,49.61192341,6.140897754
+Mexico City,Mexico,Amazon,19.35892352,-99.27838669
+Rabat,Morocco,Amazon,34.00093147,-6.845103833
+Amsterdam,Netherlands,Amazon,52.34860482,4.9146361689999996
+The Hague,Netherlands,Amazon,52.06814207,4.321865656
+Bielany Wroc?awskie,Poland,Amazon,51.03655626,16.94866064
+Gda?sk,Poland,Amazon,54.40293115,18.57147838
+Gliwice,Poland,Amazon,50.2647866,18.68530857
+Ko?baskowo,Poland,Amazon,53.34576401,14.45271663
+Okmiany,Poland,Amazon,51.27238076,15.78947344
+Pawlikowice,Poland,Amazon,51.61577828,19.36004996
+Sady,Poland,Amazon,52.448631400000004,16.70707997
+Sosnowiec,Poland,Amazon,50.25505559,19.20214533
+Warszawa,Poland,Amazon,52.23422395,20.98628605
+Bucure?ti,Romania,Amazon,44.47934708,26.11085891
+Ia?i,Romania,Amazon,47.15605424,27.59090697
+Singapore,Singapore,Amazon,1.284157066,103.84875550000001
+Bratislava,Slovakia,Amazon,48.1502342,17.11174495
+Sere?,Slovakia,Amazon,48.27757389,17.71024317
+Cape Town,South Africa,Amazon,-33.93215414,18.42450344
+Seoul,Korea (Republic of),Amazon,37.50197189,127.0370625
+Barcelona,Spain,Amazon,41.40172198,2.192016025
+Dos Hermanas,Spain,Amazon,37.27124319,-5.987284900000001
+Illescas,Spain,Amazon,40.10695584,-3.8249596439999998
+Madrid,Spain,Amazon,40.39970049,-3.6889709039999996
+Pozuelo de Alarcón,Spain,Amazon,40.44033643,-3.786423744
+Gothenburg,Sweden,Amazon,57.71131973,11.99074911
+Stockholm,Sweden,Amazon,59.33473869,18.06019028
+Stockholm,Sweden,Amazon,59.32944656,18.06515781
+Zürich,Switzerland,Amazon,47.36151711,8.551748656000001
+Taipei City,"Taiwan, Province of China",Amazon,25.03898846,121.56825359999999
+Istanbul,Turkey,Amazon,41.07820903,29.0104555
+Altrincham,United Kingdom,Amazon,53.3597574,-2.294299699
+Bardon Hill,United Kingdom,Amazon,52.69914641,-1.334161315
+Barlborough,United Kingdom,Amazon,53.28074703,-1.2866319290000001
+Birmingham,United Kingdom,Amazon,52.51158835,-1.829417129
+Bowburn,United Kingdom,Amazon,54.72589271,-1.5295818719999998
+Cambridge,United Kingdom,Amazon,52.19479236,0.136804714
+Coventry,United Kingdom,Amazon,52.43230363,-1.560987581
+Darlington,United Kingdom,Amazon,54.52850725,-1.502955084
+Daventry,United Kingdom,Amazon,52.26615683,-1.186621357
+Doncaster,United Kingdom,Amazon,53.50390938,-1.127984446
+Dunfermline,United Kingdom,Amazon,56.06182726,-3.392343419
+Dunstable,United Kingdom,Amazon,51.89179463,-0.5124403000000001
+Edinburgh,United Kingdom,Amazon,55.95319644,-3.1882616610000003
+Gourock,United Kingdom,Amazon,55.94405158,-4.865324483
+Great Sankey,United Kingdom,Amazon,53.4090225,-2.65849323
+Hemel Hempstead,United Kingdom,Amazon,51.76446432,-0.43259528799999997
+Kegworth,United Kingdom,Amazon,52.83576828,-1.305953658
+Leeds,United Kingdom,Amazon,53.78201688,-1.48111223
+Over Hulton,United Kingdom,Amazon,53.52945985,-2.4101803459999998
+Peterborough,United Kingdom,Amazon,52.5435959,-0.23816388600000002
+Ridgmont,United Kingdom,Amazon,52.02970036,-0.592962208
+Rugby,United Kingdom,Amazon,52.40586169,-1.247069675
+Rugeley,United Kingdom,Amazon,52.75778761,-1.9263756999999997
+Severn Beach,United Kingdom,Amazon,51.54213077,-2.6414661319999997
+Skewen,United Kingdom,Amazon,51.62466074,-3.8641052439999997
+Sutton-in-Ashfield,United Kingdom,Amazon,53.12658939,-1.218308403
+Tilbury,United Kingdom,Amazon,51.46802673,0.353232761
+Menlo Park,United States,Facebook,37.48534682,-122.14832129999999
+Altoona,United States,Facebook,41.6634326,-93.51016273
+Austin,United States,Facebook,30.26940277,-97.7458353
+Cambridge,United States,Facebook,42.36536132,-71.08105777
+Chicago,United States,Facebook,41.88559149,-87.63660067
+Denver,United States,Facebook,39.75353559,-105.00320759999998
+Forest City,United States,Facebook,35.31750031,-81.82636409999999
+Fort Worth,United States,Facebook,32.98777147,-97.25500937
+Fremont,United States,Facebook,37.55382191,-122.06704109999998
+Huntsville,United States,Facebook,34.84124643,-86.63741154
+Los Angeles,United States,Facebook,33.97910344,-118.4180723
+Los Angeles,United States,Facebook,34.22467239,-118.4993088
+Los Lunas,United States,Facebook,34.8284064,-106.7854268
+Menlo Park,United States,Facebook,37.48348735,-122.1495317
+Mountain View,United States,Facebook,37.4048963,-122.1106989
+New Albany,United States,Facebook,40.06888917,-82.75052374
+Newton County,United States,Facebook,33.60558515,-83.70208226
+New York,United States,Facebook,40.73076298,-73.99144604
+Pittsburgh,United States,Facebook,40.44764364,-79.95358809999999
+Prineville,United States,Facebook,44.2959566,-120.88712269999999
+Redmond,United States,Facebook,47.68756983,-122.14940259999999
+San Francisco,United States,Facebook,37.78992688,-122.39535649999999
+Seattle,United States,Facebook,47.62903677,-122.34304070000002
+Sunnyvale,United States,Facebook,37.40928506,-122.0331807
+Washington,United States,Facebook,38.89724148,-77.02163320000001
+Ashburn,United States,Facebook,39.02153271,-77.45600921
+Atlanta,United States,Facebook,33.77874549,-84.41040727
+Dallas,United States,Facebook,32.86226838,-96.80995662
+DeKalb,United States,Facebook,,
+Detroit,United States,Facebook,42.36689638,-83.08513056
+Eagle Mountain,United States,Facebook,40.2750197,-112.0168804
+Henrico,United States,Facebook,37.47688197,-77.23270084
+Miami,United States,Facebook,25.76065792,-80.19199167
+Papillion,United States,Facebook,44.87392687,-95.58530651
+Reston,United States,Facebook,38.95982056,-77.3562952
+Santa Clara,United States,Facebook,37.34232571,-121.95602240000002
+Sausalito,United States,Facebook,37.85919698,-122.49881880000001
+Buenos Aires,Argentina,Facebook,-34.59456991,-58.36978555
+Docklands,Australia,Facebook,-37.81772187,144.9491597
+Sydney,Australia,Facebook,-33.86431221,151.2022359
+Bruxelles,Belgium,Facebook,50.84575636,4.367743127
+Brasilia,Brazil,Facebook,-15.79845292,-47.89292912
+São Paulo,Brazil,Facebook,-23.58721811,-46.6795665
+Montreal,Canada,Facebook,45.51014171,-73.57570702
+Toronto,Canada,Facebook,43.65939122,-79.38960365
+Vancouver,Canada,Facebook,49.28782823,-123.1150876
+Shanghai,China,Facebook,30.97778435,121.4648223
+Bogota,Colombia,Facebook,4.710392781,-74.07063919
+Copenhagen,Denmark,Facebook,55.6676654,12.57339478
+Odense,Denmark,Facebook,55.37501170000001,10.48326774
+Paris,France,Facebook,50.01908289,1.826764077
+Berlin,Germany,Facebook,52.5109165,13.37223757
+Hamburg,Germany,Facebook,53.55467956,9.983095025
+Hong Kong,Hong Kong,Facebook,22.28638687,114.2134814
+Bengaluru,India,Facebook,12.95125546,77.6439281
+Gurugram,India,Facebook,28.45137037,77.09635482
+Hyderabad,India,Facebook,17.43336043,78.38586259
+Mumbai,India,Facebook,19.06042606,72.86508464
+New Delhi,India,Facebook,28.62140379,77.20795306
+Jakarta,Indonesia,Facebook,-6.232325929,106.82159579999998
+Clonee,Ireland,Facebook,53.41808138,-6.432514919
+Cork,Ireland,Facebook,51.89996169,-8.473521695
+Dublin,Ireland,Facebook,53.34422863,-6.238968332000001
+Tel Aviv-Yafo,Israel,Facebook,32.062998300000004,34.77153987
+Milano,Italy,Facebook,45.46155126,9.188160142000001
+Tokyo,Japan,Facebook,35.66379845,139.73402959999999
+Kuala Lumpur,Malaysia,Facebook,3.136701776,101.68734470000001
+Ciudad de México,Mexico,Facebook,19.29318456,-99.14961265
+Amsterdam,Netherlands,Facebook,52.37720867,4.920613669
+Auckland,New Zealand,Facebook,-36.84627684,174.77024409999999
+Oslo,Norway,Facebook,59.90836013,10.75267395
+Taguig,Philippines,Facebook,14.55422174,121.04968980000001
+Warsaw,Poland,Facebook,52.23129683,21.00374707
+Singapore,Singapore,Facebook,1.295920999,103.8564077
+Johannesburg,South Africa,Facebook,-26.05685977,28.02353146
+Seoul,Korea ,Facebook,37.49988045,127.03493219999999
+Madrid,Spain,Facebook,40.46110207,-3.689101146
+Luleå,Sweden,Facebook,65.61637282,22.11705118
+Stockholm,Sweden,Facebook,59.33041259,18.06715721
+Geneva,Switzerland,Facebook,46.21499204,6.140826541
+Zürich,Switzerland,Facebook,47.35833935,8.521216856
+Taipei,Taiwan,Facebook,25.04434362,121.53949109999998
+Bangkok,Thailand,Facebook,13.74468283,100.5404683
+Dubai,United Arab Emirates,Facebook,25.13052083,55.15767321
+Greater London,United Kingdom,Facebook,51.51695179,-0.134037386
+Mountain View,United States,Google,37.421512,-122.084101
+Ann Arbor,United States,Google,42.3063848,-83.7140833
+Atlanta,United States,Google,33.781827,-84.38730100000001
+Austin,United States,Google,30.266035,-97.749237
+Boulder,United States,Google,40.021693,-105.260139
+Boulder,United States,Google,40.021947999999995,-105.253978
+Boulder,United States,Google,40.01993,-105.24936000000001
+Cambridge,United States,Google,42.362757,-71.087109
+Chapel Hill,United States,Google,35.912445,-79.058488
+Chicago,United States,Google,41.88609,-87.65333000000001
+Chicago,United States,Google,41.887345700000004,-87.6526874
+Detroit,United States,Google,42.340458,-83.05449399999999
+Irvine,United States,Google,33.658792,-117.85932199999999
+Kirkland,United States,Google,47.669568,-122.19691200000001
+Los Angeles,United States,Google,33.995939,-118.4766773
+Madison,United States,Google,43.081091,-89.374619
+Miami,United States,Google,25.758473000000002,-80.1932144
+New York,United States,Google,40.741445,-74.003102
+Pittsburgh,United States,Google,40.457159999999995,-79.916596
+Playa Vista,United States,Google,33.97684,-118.40724399999999
+Portland,United States,Google,45.521622,-122.677458
+Redwood City,United States,Google,37.512171,-122.201178
+Reston,United States,Google,38.958309,-77.35979499999999
+San Bruno,United States,Google,37.62816,-122.426491
+San Diego,United States,Google,32.90961,-117.181899
+San Francisco,United States,Google,37.789972,-122.39001299999998
+Seattle,United States,Google,47.649316,-122.350629
+Sunnyvale,United States,Google,37.403694,-122.03158300000001
+Washington,United States,Google,38.898337,-77.010286
+Buenos Aires,Argentina,Google,-34.602734000000005,-58.366992
+Melbourne,Australia,Google,-37.815328,144.968737
+Sydney,Australia,Google,-33.866638,151.195672
+Wien,Austria,Google,48.209351,16.368419
+Etterbeek,Belgium,Google,50.839315,4.380984
+Belo Horizonte,Brazil,Google,-19.920225,-43.920845
+São Paulo ,Brazil,Google,-23.586479,-46.682078000000004
+Kitchener,Canada,Google,43.45411370000001,-80.49924229999999
+Toronto,Canada,Google,43.650477,-79.38385799999999
+Las Condes,Chile,Google,-33.413383,-70.605665
+Beijing,China,Google,39.984887799999996,116.32657079999998
+Guangzhou Shi,China,Google,23.1339728,113.33324879999999
+Shanghai,China,Google,31.234640000000002,121.50766200000001
+Bogota,Colombia,Google,4.678267,-74.046901
+Praha,Czech Republic,Google,50.070259,14.402642000000002
+Aarhus,Denmark,Google,56.172249,10.187372
+Copenhagen ,Denmark,Google,55.680452,12.570071
+Paris,France,Google,48.8771,2.33
+Berlin,Germany,Google,52.5231079,13.3920312
+Hamburg,Germany,Google,53.553752,9.986229
+Munich ,Germany,Google,48.14305556,11.54083333
+Athens,Greece,Google,38.03902,23.804595000000003
+Hong Kong,Hong Kong,Google,22.278203,114.18176000000001
+Bengaluru,India,Google,12.993319999999999,77.660176
+Gurugram,India,Google,28.460581,77.048194
+Hyderabad,India,Google,17.458461,78.372452
+Mumbai,India,Google,19.054364,72.85059100000001
+Jakarta,Indonesia,Google,-6.227664,106.808471
+Dublin 4,Ireland,Google,53.339952600000004,-6.2360967
+Haifa,Israel,Google,32.78897,34.958432
+Tel Aviv-Yafo,Israel,Google,32.070043,34.794087
+Milano,Italy,Google,45.486146999999995,9.189546
+Tokyo,Japan,Google,35.660470000000004,139.729231
+Tokyo,Japan,Google,35.6572564,139.7028246
+Kuala Lumpur,Malaysia,Google,3.133445,101.684609
+Mexico City,Mexico,Google,19.4283793,-99.20655179999999
+Amsterdam,Netherlands,Google,52.337801,4.872066
+Oslo,Norway,Google,59.90987,10.72598
+Warsaw ,Poland,Google,52.233447999999996,21.001668
+Wroclaw ,Poland,Google,51.117687,17.041737
+Lisboa,Portugal,Google,38.718887,-9.143781
+Moscow,Russia,Google,55.746747,37.626435
+Singapore,Singapore,Google,1.2764659999999999,103.798965
+Johannesburg,South Africa,Google,-26.0734457,28.032034999999997
+Seoul,Korea (Republic of),Google,37.500295,127.03684299999999
+Madrid,Spain,Google,40.4505331,-3.6931161
+Stockholm,Sweden,Google,59.333431999999995,18.054619
+ Zurich ,Switzerland,Google,47.365063,8.524425
+Taipei,"Taiwan, Province of China",Google,25.033447,121.564901
+Bangkok,Thailand,Google,13.742866000000001,100.547983
+Istanbul,Turkey,Google,41.081697,29.00859
+Dubai,United Arab Emirates,Google,25.0929,55.1591
+London,United Kingdom,Google,51.516027,-0.12755
+London,United Kingdom,Google,51.533311,-0.126026
+London,United Kingdom,Google,51.494960999999996,-0.146652
+Redmond,United States,Microsoft,47.6530558,-122.1422946
+Albany,United States,Microsoft,42.64890151,-73.75214653
+Alpharetta,United States,Microsoft,34.07061174,-84.27429000000001
+Atlanta,United States,Microsoft,33.75605502,-84.38876931
+Austin,United States,Microsoft,30.40149495,-97.73525755
+Bellevue,United States,Microsoft,47.6172989,-122.20132029999999
+Bentonville,United States,Microsoft,36.36084828,-94.18281523
+Bethesda,United States,Microsoft,38.96115519,-77.08646089
+Birmingham,United States,Microsoft,33.43932504,-86.72246792
+Bloomington,United States,Microsoft,40.48764558,-88.94479632
+Blue Ash,United States,Microsoft,39.2533469,-84.38316754
+Boise,United States,Microsoft,43.61153308,-116.2010775
+Burlington,United States,Microsoft,42.48465134,-71.19150219
+Charlotte,United States,Microsoft,35.13924513,-80.92263122
+Chicago,United States,Microsoft,41.88549035,-87.62145856
+Columbus,United States,Microsoft,40.14446181,-82.97282684
+Denver,United States,Microsoft,39.63080974,-104.90280359999998
+Des Moines,United States,Microsoft,41.58444858,-93.63494979
+Detroit,United States,Microsoft,42.33258623,-83.04672647
+Downers Grove,United States,Microsoft,41.8338436,-88.00566296
+Edina,United States,Microsoft,44.86462619,-93.32595690000001
+Elkridge,United States,Microsoft,39.19006639,-76.77759559
+Fairport,United States,Microsoft,43.04093024,-77.4587937
+Fargo,United States,Microsoft,46.81220412,-96.84322890000001
+Fort Lauderdale,United States,Microsoft,26.20927205,-80.14058034
+Glen Allen,United States,Microsoft,37.65292795,-77.58414832
+Grand Rapids,United States,Microsoft,42.9631843,-85.66948797
+Hartford,United States,Microsoft,41.7684742,-72.67447979
+Houston,United States,Microsoft,29.77834789,-95.56014774
+Independence,United States,Microsoft,41.3969966,-81.66269465
+Indianapolis,United States,Microsoft,39.91722798,-86.11124057
+Irvine,United States,Microsoft,33.67765842,-117.83867679999999
+Irving,United States,Microsoft,32.89993735,-96.96339109
+Lehi,United States,Microsoft,40.43000685,-111.89437360000001
+Los Angeles,United States,Microsoft,33.97558574,-118.42615740000001
+Louisville,United States,Microsoft,38.264635999999996,-85.57471157
+Malvern,United States,Microsoft,40.05625976,-75.52169143
+Memphis,United States,Microsoft,35.10435202,-89.84787319
+Miami,United States,Microsoft,25.78438804,-80.19121159999999
+Milwaukee,United States,Microsoft,43.03734686,-87.90086999
+Morrisville,United States,Microsoft,35.86499164,-78.8331191
+Mountain View,United States,Microsoft,37.41207252,-122.0709308
+Nashville,United States,Microsoft,36.152407600000004,-86.82013593
+New York,United States,Microsoft,40.75689213,-73.98963942
+Omaha,United States,Microsoft,41.23984641,-96.01420016
+Overland Park,United States,Microsoft,38.93298092,-94.70197393
+Pittsburgh,United States,Microsoft,40.44455384,-79.99456647
+Pittsburgh,United States,Microsoft,40.45346041,-79.99147756
+Portland,United States,Microsoft,45.53151643,-122.68621929999999
+Reston,United States,Microsoft,38.95624708,-77.35772811
+Sacramento,United States,Microsoft,38.57703574,-121.4884648
+San Antonio,United States,Microsoft,29.61697235,-98.48707696
+San Diego,United States,Microsoft,32.87620376,-117.2069189
+San Francisco,United States,Microsoft,37.79227177,-122.40389579999999
+Southfield,United States,Microsoft,42.47675064,-83.24357490000001
+St. Louis,United States,Microsoft,38.6345708,-90.25031159999999
+Sunnyvale,United States,Microsoft,37.39431398,-122.03021629999999
+Tampa,United States,Microsoft,27.94416356,-82.53796815
+Tempe,United States,Microsoft,33.43150995,-111.9393248
+Tulsa,United States,Microsoft,36.07280803,-95.88872540000001
+Woodbridge Township,United States,Microsoft,40.562969200000005,-74.32687813
+Tirana,Albania,Microsoft,41.320367600000004,19.8228091
+Algiers,Algeria,Microsoft,36.73754072,3.154369998
+Luanda,Angola,Microsoft,-8.808405207,13.23191725
+San Nicolas,Argentina,Microsoft,-34.59904785,-58.36973054
+North Ryde,Australia,Microsoft,-33.79614832,151.1384081
+Sydney,Australia,Microsoft,-33.86762197,151.20775319999998
+Wien,Austria,Microsoft,48.17082408,16.33390441
+Baku,Azerbaijan,Microsoft,40.37181874,49.83756248
+Dhaka,Bangladesh,Microsoft,23.79342279,90.41537664
+Zaventem,Belgium,Microsoft,50.89587086,4.485497543999999
+Santa Cruz de la Sierra,Bolivia,Microsoft,-17.74873642,-63.17520583
+São Paulo,Brazil,Microsoft,-23.59134422,-46.68798471
+Bandar Seri Begawan,Brunei Darussalam,Microsoft,4.889956283,114.9439387
+Sofia,Bulgaria,Microsoft,42.66701361,23.32647244
+Calgary,Canada,Microsoft,51.04498536,-114.06391070000001
+Mississauga,Canada,Microsoft,43.61278087,-79.75382807
+Montreal,Canada,Microsoft,45.50284543,-73.57360732
+Santiago,Chile,Microsoft,-33.38726061,-70.56638290000001
+Beijing,China,Microsoft,39.97960952,116.3108804
+Guangzhou,China,Microsoft,23.13500559,113.3321547
+Shanghai,China,Microsoft,31.17293317,121.40952659999998
+Bogotá,Colombia,Microsoft,4.673550939,-74.04853143
+Medellín,Colombia,Microsoft,6.201415679,-75.57225664
+San José,Costa Rica,Microsoft,9.932189553999999,-84.09855016
+Abidjan,Côte d'Ivoire,Microsoft,5.317000215,-4.01745156
+Zagreb,Croatia,Microsoft,45.76475231,15.98018471
+Nicosia,Cyprus,Microsoft,35.18258099,33.39113026
+Praha,Czech Republic,Microsoft,50.04820125,14.45725668
+Kongens Lyngby,Denmark,Microsoft,55.77305024,12.50886858
+Santo Domingo,Dominican Republic,Microsoft,18.47302556,-69.94101133
+Quito,Ecuador,Microsoft,-0.153757451,-78.43002886
+Cairo,Egypt,Microsoft,30.06056761,31.03271812
+San Salvador,El Salvador,Microsoft,13.70834609,-89.24175732
+Tallinn,Estonia,Microsoft,59.39762651,24.661717499999998
+Espoo,Finland,Microsoft,60.17149119,24.827831699999997
+Issy-les-Moulineaux,France,Microsoft,48.83371745,2.265975042
+München,Germany,Microsoft,48.17787483,11.59382693
+Unterschleißheim,Germany,Microsoft,48.29007667,11.5812212
+Marousi,Greece,Microsoft,38.06415335,23.80911604
+Guatemala,Guatemala,Microsoft,14.60135991,-90.50955049
+Tegucigalpa,Honduras,Microsoft,14.10199815,-87.18696821
+Hong Kong,Hong Kong,Microsoft,22.26241368,114.1307213
+Budapest,Hungary,Microsoft,47.56123888,19.05454672
+Bengaluru,India,Microsoft,12.92650163,77.67757809999999
+Gurugram,India,Microsoft,28.48962574,77.09200827
+Mumbai,India,Microsoft,19.06952167,72.86191014
+Jakarta,Indonesia,Microsoft,-6.2232576029999995,106.80873490000002
+Leopardstown,Ireland,Microsoft,53.26916683,-6.195996114
+Ra'anana,Israel,Microsoft,32.17582317,34.889771100000004
+Milano,Italy,Microsoft,45.48200281,9.182773583
+Kingston,Jamaica,Microsoft,18.00699606,-76.78732121
+Tokyo,Japan,Microsoft,35.62697878,139.74040540000001
+Amman,Jordan,Microsoft,31.971943300000003,35.83394806
+Almaty,Kazakhstan,Microsoft,43.25257656,76.95711993
+Nur-Sultan,Kazakhstan,Microsoft,51.13463095,71.4282118
+Nairobi,Kenya,Microsoft,-1.258323315,36.80566185
+R?ga,Latvia,Microsoft,56.95911918,24.11428253
+Bayrut,Lebanon,Microsoft,33.90088657,35.50220831
+Tarabulus,Libya,Microsoft,26.30395084,50.21053057
+Vilnius,Lithuania,Microsoft,54.70238786,25.26005243
+Luxembourg,Luxembourg,Microsoft,49.61228391,6.14185362
+Kuala Lumpur,Malaysia,Microsoft,3.131062567,101.68457099999999
+Luqa,Malta,Microsoft,35.85137204,14.49431394
+Port Louis,Mauritius,Microsoft,-20.16152342,57.49979738
+Ciudad de México,Mexico,Microsoft,19.36659863,-99.26450784
+Chi?in?u,Moldova ,Microsoft,47.02376624,28.83591171
+Podgorica,Montenegro,Microsoft,42.43595888,19.26093307
+Casablanca,Morocco,Microsoft,33.586702700000004,-7.632296973
+Rabat,Morocco,Microsoft,33.99824671,-6.843398831
+Schiphol,Netherlands,Microsoft,52.30390505,4.750034727
+Auckland,New Zealand,Microsoft,-36.84520046,174.75688290000002
+Wellington,New Zealand,Microsoft,-41.28223613,174.7773097
+Abuja,Nigeria,Microsoft,9.060055148,7.491260671
+Lagos,Nigeria,Microsoft,6.439945335,3.4294257530000003
+Skopje,Macedonia (the former Yugoslav Republic of),Microsoft,41.99309953,21.42568236
+Oslo,Norway,Microsoft,59.90692659,10.7611034
+Islamabad,Pakistan,Microsoft,33.71883165,73.07214246
+Karachi,Pakistan,Microsoft,24.80283137,67.0294128
+Lahore,Pakistan,Microsoft,31.48377223,74.45629738
+Panama,Panama,Microsoft,9.010234905,-79.4766751
+Asunción,Paraguay,Microsoft,-25.29475428,-57.57944229
+Cercado de Lima,Peru,Microsoft,-12.09726245,-77.0374503
+Makati,Philippines,Microsoft,14.55322198,121.0256348
+Warszawa,Poland,Microsoft,52.20043495,20.93609671
+Lisboa,Portugal,Microsoft,52.20036919,20.93602161
+Guaynabo,Puerto Rico,Microsoft,18.416919399999998,-66.10825863
+Bucure?ti ,Romania,Microsoft,44.47762729,26.07138847
+Moskva,Russia,Microsoft,55.75063801,37.42736763
+Moskva,Russia,Microsoft,55.77945302,37.58852083
+Al Khobar,Saudi Arabia,Microsoft,26.29099787,50.17752748
+Jeddah,Saudi Arabia,Microsoft,21.54937136,39.153673600000005
+Riyadh,Saudi Arabia,Microsoft,24.86263055,46.59182273
+Riyadh,Saudi Arabia,Microsoft,24.73865225,46.67280563
+Beograd,Serbia,Microsoft,44.81882322,20.42354224
+Singapore,Singapore,Microsoft,1.278834818,103.8473901
+Singapore,Singapore,Microsoft,1.282590796,103.8525497
+Bratislava,Slovakia,Microsoft,48.14608039,17.1393613
+Ljubljana,Slovenia,Microsoft,46.06700131,14.54131908
+Johannesburg,South Africa,Microsoft,-26.04434756,28.01866562
+Seoul,Korea ,Microsoft,37.57485906,126.97914879999999
+Pozuelo de AlarcÃ³n,Spain,Microsoft,40.41966634,-3.801252631
+Colombo,Sri Lanka,Microsoft,6.92021985,79.8574745
+Stockholm,Sweden,Microsoft,59.33171589,18.06784929
+Wallisellen,Switzerland,Microsoft,47.409135799999994,8.590969956
+Taipei,"Taiwan, Province of China",Microsoft,25.04045737,121.5669002
+Bangkok,Thailand,Microsoft,13.73941665,100.5478614
+Port of Spain,Trinidad and Tobago,Microsoft,10.67218556,-61.5393657
+Tunis,Tunisia,Microsoft,36.83563582,10.24848956
+Istanbul,Turkey,Microsoft,41.07101346,29.01784717
+Kyiv,Ukraine,Microsoft,50.43915031,30.49879968
+Dubai,United Arab Emirates,Microsoft,25.09500517,55.16210009
+Belfast,United Kingdom,Microsoft,54.61282277,-5.902655384
+Wokingham,United Kingdom,Microsoft,51.46128979,-0.9271480390000001
+Montevideo,Uruguay,Microsoft,-34.91353221,-56.18247126
+Caracas,Venezuela,Microsoft,10.49716388,-66.85135569
+Hanoi,Viet Nam,Microsoft,21.02376124,105.84191740000001
+Los Gatos,United States,Netflix,37.25969453,-121.9626991
+Los Angeles,United States,Netflix,34.09787553,-118.31635359999999
+New York,United States,Netflix,40.74294856,-73.99976913
+Utah,United States,Netflix,40.77803214,-112.02076969999999
+Washington,United States,Netflix,38.89797403,-77.03305943
+Paris,France,Netflix,48.86131755,2.309315585
+Berlin,Germany,Netflix,52.51772984,13.389605
+Mexico City,Mexico,Netflix,19.44119248,-99.15254786
+Amsterdam,Netherlands,Netflix,52.34804556,4.856101412
+Amsterdam,Netherlands,Netflix,52.35891869,4.888269796
+Manila,Philippines,Netflix,14.66435428,121.05148270000001
+Singapore,Singapore,Netflix,1.276879461,103.8524011
+Madrid,Spain,Netflix,40.43333889,-3.728104483
+Hsinchu,"Taiwan, Province of China",Netflix,24.78485295,121.0180459
+London,United Kingdom,Netflix,51.51884838,-0.138043146
+Argentina,Argentina,Netflix,-34.59887404,-58.38051274
+Brasil,Brazil,Netflix,-23.50474417,-46.8493674
+India,India,Netflix,19.99286122,72.71619976
+Seoul,Korea,Netflix,37.57153856,126.98322959999999
+Tokyo,Japan,Netflix,35.66661617,139.71394080000002
+Turkey,Turkey,Netflix,38.44129467,27.1812187
+Rome,Italy,Netflix,41.90834063,12.49305937
