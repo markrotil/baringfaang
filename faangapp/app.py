@@ -40,6 +40,11 @@ def dashBI():
     return render_template("dashboard.html")
 
 
+@app.route("/plotly")
+def plot():
+    return render_template("plotly.html")
+
+
 @app.route("/api/stocks")
 def stockage():
 
