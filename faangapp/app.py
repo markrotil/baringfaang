@@ -50,6 +50,11 @@ def consensus():
     return render_template("consensus.html")
 
 
+@app.route("/video")
+def video():
+    return render_template("video.html")
+
+
 @app.route("/api/stocks")
 def stockage():
 
