@@ -45,6 +45,11 @@ def plot():
     return render_template("plotly.html")
 
 
+@app.route("/consensus")
+def consensus():
+    return render_template("consensus.html")
+
+
 @app.route("/api/stocks")
 def stockage():
 
@@ -174,7 +179,7 @@ def stockage():
     return jsonify(stocks_list)
 
 
-@app.route("/employees")
+@app.route("/api/employees")
 def employee_():
 
     employee = session.query(
@@ -189,7 +194,7 @@ def employee_():
     return jsonify(emp_list)
 
 
-@app.route("/office")
+@app.route("/api/office")
 def location():
 
     offices_ = session.query(

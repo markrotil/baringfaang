@@ -117,162 +117,105 @@
     </header><!-- End Header -->
 
     <!-- ======= Hero Section ======= -->
+    <section id="cta" class="cta">
+        <div class="container" data-aos="zoom-in">
 
-    <body>
+            <div class="text-center">
+                <h3>Consensus</h3>
+                <p>In the section we will conclude our findings</p><br>
+                <h4>Revenue</h4>
+                <p>As we saw with the predictions from Facebook Prophet all the companies follow an
+                    exponential slope
+                    with the exception of Apple who is following a Linear path. All companies excluding apple are
+                    predicted to have a revenue increase between <b>8%</b> and <b>16%</b> by the end of 2021 and an
+                    increase of <b>17%</b> to <b>21%</b> by Q4 2022. However Apple is to be expecting an astounding
+                    <b>38%</b> in 2021 and <b>44%</b>
+                </p><br>
+                <h4>Employees</h4>
+                <p>Surprising or not Surprising the pandemic had very little to no effect on the hiring or job
+                    oppertunites
+                    for
+                    these companies. As a matter of fact as seen through the visulization, most companies actually have
+                    more employees in 2020 than ever before with again the exclusion of apple where their year of most
+                    employees is 2016</p><br>
+                <p>In terms of office to employee ratio: (<b>*DISCLAIMER! THIS IS A GENERALIZATION, I HAVE TAKEN INTO
+                        ACCOUNT THAT OFFICE SIZINGS ARE NOT ALL EQUAL BUT THIS IS FOR THE SAKE OF
+                        SIMPLICITY* </b><em>Amazon:</em>Has around <b>5570</b> employees per it's <b>233</b> offices. It
+                    is important to note
+                    that this also includes delivery drivers and general workers. <em>Apple</em> Has an average of
+                    <b>5654 </b>
+                    employees amongest it's <b>26</b> offices, again this also includes the store workers with many
+                    locations worldwide <em>Facebook</em>
+                    carries about <b>2254</b> between it's <b>85</b> offices. it is important to note that unlike the
+                    two stated above this is an entirely web based company. <em>Netflix</em> has <b>723</b> employees
+                    among it's <b>13</b> offices.<em>Google</em> has <b>2768</b> employees amongest its <b>85</b>
+                    offices. Lastly <em>Microsoft</em> carries around <b>921</b> employees amongest it's <b>177</b>
+                    offices. Note again that this includes employees that work at Microsoft storefronts as well
+                </p><br>
+                <h4>Stocks</h4>
+                <p>My main focus at looking on stocks was to see as to whether the pandemic effected the buying and
+                    selling of these stocks. Suffice to say, there was absloutley no negative impact, and for most it
+                    was actually a benefit. In the span of year <em>Amazon</em> rose <b>$1337.43 </b> or <b>72%</b>.
+                    <em>Apple</em>
+                    rose
+                    <b>$58.08</b> or <b>80%</b>. <em>Facebook</em> rose <b>$62.86</b> or <b></b>. <em>Google</em> rose
+                    <b>$421.70</b> or <b>32%</b>
+                    <em>Microsoft</em> rose <b>$64.82</b> or <b>42%</b>. and <em>Netflix</em> rose <b>$191.17</b> or
+                    <b>59%</b>.
+                </p><br>
+                <h4>Future Use</h4>
+                <p> Continuing from where I have left off. I would like to perfect data structures so I will be able
+                    to use my global map via Leafelt and Mapbox. I also would like include other companies that are now
+                    under the <em>FAANG </em> umbrella (ie: Tesla, Shopify, Spotify). I would also like to include
+                    popular items/services. this includes the number of subscriptions Netlfix has, The Number of daily
+                    users
+                    on Facebook, Snapchat, Instagram or Youtube </p>
 
+                <a class="cta-btn" href="#">Any Questions?</a>
+            </div>
 
-        <iframe width="2000" height="900"
-            src="https://app.powerbi.com/reportEmbed?reportId=ac381b12-d04f-4df1-b938-4247f9dad59e&autoAuth=true&ctid=d5f4fc7a-7bdd-4b0f-8689-d794073049c1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"
-            frameborder="0" allowFullScreen="true"></iframe>
-
-        <table border="1" class="dataframe">
-            <thead>
-                <tr style="text-align: right;">
-                    <th></th>
-                    <th>Company</th>
-                    <th>Number_of_Offices</th>
-                    <th>Revenue_2019(Millions)</th>
-                    <th>
-                        Revenue_2020(Millions)</th>
-                    <th>Employees(2019)</th>
-                    <th>Employees(2020)</th>
-                    <th>Job_Oppertunities</th>
-                    <th>
-                        Stocks_Dec_2019</th>
-                    <th>Stocks_Dec_2020</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th>0</th>
-                    <td>Amazon</td>
-                    <td>233</td>
-                    <td>45379.01</td>
-                    <td>51448.51</td>
-                    <td>
-                        798000</td>
-                    <td>
-                        1298000</td>
-                    <td>49705</td>
-                    <td>1847.84</td>
-                    <td>3185.27</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>Apple</td>
-                    <td>26</td>
-                    <td>95868.86</td>
-                    <td>102347.86</td>
-                    <td>
-                        137000</td>
-                    <td>
-                        147000</td>
-                    <td>645</td>
-                    <td>72.68</td>
-                    <td>130.76</td>
-                </tr>
-                <tr>
-                    <th>2</th>
-                    <td>
-                        Facebook</td>
-                    <td>85</td>
-                    <td>20812.72</td>
-                    <td>25735.48</td>
-                    <td>44942
-                    </td>
-                    <td>58604
-                    </td>
-                    <td>3257</td>
-                    <td>205.25</td>
-                    <td>268.11</td>
-                </tr>
-                <tr>
-                    <th>3
-                    </th>
-                    <td>Netflix
-                    </td>
-                    <td>13</td>
-                    <td>5290.15</td>
-                    <td>6668.76</td>
-                    <td>8600</td>
-                    <td>9400
-                    </td>
-                    <td>506
-                    </td>
-                    <td>323.31</td>
-                    <td>514.48</td>
-                </tr>
-                <tr>
-                    <th>4</th>
-                    <td>Google
-                    </td>
-                    <td>85
-                    </td>
-                    <td>45379.01</td>
-                    <td>51448.51</td>
-                    <td>118899</td>
-                    <td>235301</td>
-                    <td>3591</td>
-                    <td>1337.02</td>
-                    <td>1758.72</td>
-                </tr>
-                <tr>
-                    <th>5</th>
-                    <td>Microsoft</td>
-                    <td>177</td>
-                    \n <td>38217.45</td>
-                    <td>42530.91</td>
-                    <td>144000</td>
-                    <td>163000</td>
-                    <td>
-                        8019</td>
-                    <td>
-                        155.69</td>
-                    <td>220.51</td>
-                </tr>
-            </tbody>
-        </table>
+        </div>-->
+    </section>
 
 
-        <!-- Vendor JS Files -->
-        <script src="static\assets\vendor\aos\aos.js"></script>
-        <script src="static\assets\vendor\bootstrap\js\bootstrap.bundle.min.js"></script>
-        <script src="static\assets\vendor\glightbox\js\glightbox.min.js"></script>
-        <script src="static\assets\vendor\isotope-layout\isotope.pkgd.min.js"></script>
-        <script src="static\assets\vendor\php-email-form\validate.js"></script>
-        <script src="static\assets\vendor\swiper\swiper-bundle.min.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="static\assets\vendor\aos\aos.js"></script>
+    <script src="static\assets\vendor\bootstrap\js\bootstrap.bundle.min.js"></script>
+    <script src="static\assets\vendor\glightbox\js\glightbox.min.js"></script>
+    <script src="static\assets\vendor\isotope-layout\isotope.pkgd.min.js"></script>
+    <script src="static\assets\vendor\php-email-form\validate.js"></script>
+    <script src="static\assets\vendor\swiper\swiper-bundle.min.js"></script>
 
-        <!-- Bootsrtap -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
-            crossorigin="anonymous"></script>
+    <!-- Bootsrtap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+        crossorigin="anonymous"></script>
 
-        <!-- D3 -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+    <!-- D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
 
-        <!-- MomentJS -->
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script>
+    <!-- MomentJS -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script>
 
-        <!-- Leaflet JS -->
-        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-            crossorigin=""></script>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
 
-        <!-- polyfill.io is library for using newer JavaScript features in older browers (such as Object.assign) -->
-        <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <!-- polyfill.io is library for using newer JavaScript features in older browers (such as Object.assign) -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
 
-        <!-- API key -->
-        <script type="text/javascript" src="static/js/config.js"></script>
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js"></script>
 
-        <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
-        <!-- Template Main JS File -->
-        <script src="static\assets\js\main.js"></script>
-        <script src="{{ url_for('static', filename='js/main.js') }}"></script>
-        <script src="{{ url_for('static', filename='js/employees.js') }}"></script>
-        <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+    <!-- Template Main JS File -->
+    <script src="static\assets\js\main.js"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/employees.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/map.js') }}"></script>
 
-    </body>
+</body>
 
 </html>
